@@ -1,2 +1,2 @@
 # TDNN4AES
-Redirection to TDNN
+Redirection to: https://github.com/ucasir/TDNN
